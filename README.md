@@ -1,6 +1,6 @@
 # Hi! I'm Nasreddine BELARBI
 
-## Future Software Engineer
+## Certified Software Engineer
 
 Welcome to my GitHub space! I'm keeping this brief and focused.
 
@@ -27,11 +27,9 @@ My stack is versatile and performance-focused, covering development, data proces
 
 ### 4. How to reach me?
 
-I am always open to discussing PFE opportunities or technical collaboration.
+I am always open to discussing technical collaboration.
 
 - 📧 **Professional Email:** belarbi.nasrddine@gmail.com
-    
-- 📞 **Phone:** +212 6 56 07 40 60
     
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/nasreddine-belarbi-4b111a311]
     
